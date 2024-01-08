@@ -5,7 +5,7 @@
 <img src = "https://github.com/KorobD/KorobD/assets/122111546/1dd3faf8-ae51-48e8-abc5-4b5f9847deb9" width = "45">
 <img src = "https://github.com/KorobD/KorobD/assets/122111546/026e19bf-3667-4feb-b7e5-7b7598780d6f" width = "45">
 </div> 
-<h3 align="center">I am a Unity Developer</h3>
+<h3 align="center">I am a Game Developer</h3>
 
 <!--
 **KorobD/KorobD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
